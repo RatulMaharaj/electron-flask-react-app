@@ -4,7 +4,7 @@
   "description": "A Simple Electron Flask React Application",
   "main": "main.js",
   "scripts": {
-    "start": "electron .",
+    "start": "source ./api/venv/bin/activate && electron .",
     "develop": "react-scripts start",
     "start-api" : "source ./api/venv/bin/activate && python ./api/api.py"
   },

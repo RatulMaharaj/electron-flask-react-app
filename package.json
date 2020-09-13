@@ -1,7 +1,7 @@
 {
   "name": "electron-flask-react-app",
   "version": "1.0.0",
-  "description": "An Electron Flask React Application",
+  "description": "A Simple Electron Flask React Application",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
